@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    color: white;
+}
+a{
+    color: palevioletred;
+}
+h2,h3{
+    color: red;
+}
+.head{
+    color: rgb(165, 7, 165);
+    font-style: italic;
+    font-size: large;
+}
+.free-sec{
+    color: rgb(189, 62, 62)
+}
+.cont-act{
+    color: rgb(30, 189, 189);
+}
+.img-sec{
+    border-radius: 5px;
+}
